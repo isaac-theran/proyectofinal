@@ -1,9 +1,26 @@
+#carousel_0698{
+  background-image: url(https://previews.123rf.com/images/ykoronovskiy/ykoronovskiy1611/ykoronovskiy161100001/68775136-arn%C3%A9s-del-trineo-del-perro-en-el-bosque-.jpg);
+}
+
+#sec-3764{
+  background-image: url(../images/68f64b9d.jpeg);
+}
+
+#carousel_d7d2{
+  background-image: url(https://viajes.nationalgeographic.com.es/medio/2014/10/17/x6m-2005580_copia_1333x2000.jpg);
+}
+
+#oscuro{
+  background-color: green;
+
+}
+
 .oscuro{ 
     background-color: #1f1f1f; 
     color: #f1eded; 
 }
 .dropbtn {
-  background-color: #3498DB;
+  background-color: green;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -12,19 +29,19 @@
 }
 
 .dropbtn:hover, .dropbtn:focus {
-  background-color: #2980B9;
+  background-color: green;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
+  padding: 0cm;
+  
 }
 
 .contenido-desplegable {
   display: none;
-  position: absolute;
   background-color: #f1f1f1;
-  min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
